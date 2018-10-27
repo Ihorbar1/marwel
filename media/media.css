@@ -1,0 +1,24 @@
+@media screen and (max-width: 770px) {
+  .main .mainCont {
+    margin: 0 30px;
+    padding: 0; }
+    .main .mainCont .elem {
+      padding: 0 20px; }
+      .main .mainCont .elem h2 {
+        font-size: 40px; }
+      .main .mainCont .elem p {
+        font-size: 12px; }
+      .main .mainCont .elem a {
+        padding: 15px 25px 15px 25px; } }
+
+@media screen and (max-width: 480px) {
+  .main .mainCont {
+    margin-left: 0; }
+    .main .mainCont .elem {
+      text-align: center; }
+      .main .mainCont .elem h2 {
+        font-size: 24px; }
+      .main .mainCont .elem p {
+        font-size: 12px; }
+      .main .mainCont .elem a {
+        padding: 15px 25px 15px 25px; } }
